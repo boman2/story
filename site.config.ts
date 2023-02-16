@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'boman2',
-  domain: 'https://github.com/boman2/story/',
+  domain: 'https://greengables.or.kr/',
   author: 'boman2',
 
   // open graph metadata (optional)
-  description: 'Personal site of Travis Fischer aka Transitive Bullshit',
+  description: 'anne of green gables',
 
   // social usernames (optional)
   twitter: 'null',
@@ -26,8 +26,8 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://transitivebullsh.it/page-icon.png',
-  defaultPageCover: 'https://transitivebullsh.it/page-cover.jpg',
+  defaultPageIcon: null,
+  defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
@@ -54,7 +54,7 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  navigationStyle: 'custom',
+  navigationStyle: 'default',
   navigationLinks: [
     {
       title: 'About',
