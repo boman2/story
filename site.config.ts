@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'boman2',
-  domain: 'https://greengables.or.kr/',
+  domain: 'https://www.greengables.or.kr/',
   author: 'boman2',
 
   // open graph metadata (optional)
