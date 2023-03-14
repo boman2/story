@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'anne of green gables',
 
   // social usernames (optional)
-  #twitter: 'null',
+  // #twitter: 'null',
   github: 'boman2',
-  #linkedin: 'null',
+  // #linkedin: 'null',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
