@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   // #twitter: 'null',
-  github: 'https://github.com/boman2/story',
+  github: 'boman2/story',
   // #linkedin: 'null',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
