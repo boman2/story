@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: 'null',
 
   // basic site info (required)
-  name: 'boman2',
+  name: 'IloveAnneofgreengables',
   domain: 'https://www.greengables.or.kr/',
-  author: 'boman2',
+  author: 'bomankim',
 
   // open graph metadata (optional)
-  description: 'anne of green gables',
+  description: 'Anne of greengables',
 
   // social usernames (optional)
   // #twitter: 'null',
