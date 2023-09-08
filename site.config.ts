@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'IloveAnneofgreengables',
-  domain: 'https://www.greengables.or.kr/',
+  domain: 'https://story-boman2.vercel.app/',
   author: 'bomankim',
 
   // open graph metadata (optional)
